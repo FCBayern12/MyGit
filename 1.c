@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<math.h>
 void main(){
-	printf("hello");
+	pow(2,5);
 }
